@@ -105,7 +105,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "Em 2049...";
+    caixaPerguntas.textContent = "Seu perfil no trabalho em equipe é:";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
